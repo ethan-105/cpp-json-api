@@ -1,0 +1,16 @@
+{
+  "name": "Mankind",
+  // empty space haha
+  /* test hehehe */
+  "goals": [
+    "fame",
+    "money",
+    "power"
+  ],
+  { // haha unnamed object! Cope.
+    "name": "haha no member name",
+    "thought": "bro how do I deal with this object"
+  },
+  "friends": [],
+  "fav_nums": [ 1, 3.7, "sike", false, 6, "gotcha!", "mixed array!", 10.3 ]
+}
